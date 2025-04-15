@@ -51,6 +51,13 @@ return {
     },
   },
 
+  -- gruvebox [theme]
+  -- https://github.com/ellisonleao/gruvbox.nvim
+  {
+    "ellisonleao/gruvbox.nvim",
+    event = "User LoadColorSchemes",
+  },
+
   --  alpha-nvim [greeter]
   --  https://github.com/goolord/alpha-nvim
   {
